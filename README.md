@@ -4,4 +4,9 @@
 - 🌱 I’m currently learning c#
 - 📫 How to reach me:fikricanatinc0@gmail.com
 
-(https://github-readme-stats.vercel.app/api?username=fatinc&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api/top-langs/?username=fatinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
